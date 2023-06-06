@@ -1,0 +1,81 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 70,
+        "element": {
+          "element_type": "minecraft:list_pool_element",
+          "projection": "rigid",
+          "elements": [
+            {
+              "element_type": "minecraft:single_pool_element",
+              "projection": "rigid",
+              "location": "rothal:divinorum/closedlongcor",
+              "processors": "minecraft:empty"
+            }
+          ]
+        }
+      },
+      {
+        "weight": 50,
+        "element": {
+          "element_type": "minecraft:list_pool_element",
+          "projection": "rigid",
+          "elements": [
+            {
+              "element_type": "minecraft:single_pool_element",
+              "projection": "rigid",
+              "location": "rothal:divinorum/closedlongcorner1",
+              "processors": "minecraft:empty"
+            }
+          ]
+        }
+      },
+      {
+        "weight": 100,
+        "element": {
+          "element_type": "minecraft:list_pool_element",
+          "projection": "rigid",
+          "elements": [
+            {
+              "element_type": "minecraft:single_pool_element",
+              "projection": "rigid",
+              "location": "rothal:divinorum/closedlong4way",
+              "processors": "minecraft:empty"
+            }
+          ]
+        }
+      },
+      {
+        "weight": 80,
+        "element": {
+          "element_type": "minecraft:list_pool_element",
+          "projection": "rigid",
+          "elements": [
+            {
+              "element_type": "minecraft:single_pool_element",
+              "projection": "rigid",
+              "location": "rothal:divinorum/openoasis",
+              "processors": "minecraft:empty"
+            }
+          ]
+        }
+      },
+      {
+        "weight": 80,
+        "element": {
+          "element_type": "minecraft:list_pool_element",
+          "projection": "rigid",
+          "elements": [
+            {
+              "element_type": "minecraft:single_pool_element",
+              "projection": "rigid",
+              "location": "rothal:divinorum/closedlibrary",
+              "processors": "minecraft:empty"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  
